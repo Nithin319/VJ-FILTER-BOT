@@ -1,5 +1,5 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
+# Don't Remove Credit @movie_file_20
+# Subscribe YouTube Channel For Amazing Bot @movie_file_20
 # Ask Doubt on telegram @KingVJ01
 
 
@@ -678,16 +678,16 @@ special Thanks To ❤️ Developers -
 
 -Dev 1 [Owner of this bot ]<a href='https://t.me/KingVj01'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
 
--Dev 2 <a href='https://t.me/vjbots_bot'>VJ</a>
+-Dev 2 <a href='https://t.me/movie_file_20'>VJ</a>
 
--Dev 3 <a href='https://t.me/vj_botz>Jᴏᴇʟ </> TɢX</a>
+-Dev 3 <a href='https://t.me/movie_file_20>Jᴏᴇʟ </> TɢX</a>
 
-- Dev 4 <a href='https://t.me/vj_bots'>TEAM VJ</a>
+- Dev 4 <a href='https://t.me/movie_file_20'>TEAM VJ</a>
 """
 
 
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
+# Don't Remove Credit @movie_file_20
+# Subscribe YouTube Channel For Amazing Bot @movie_file_20
 # Ask Doubt on telegram @KingVJ01
 
 
