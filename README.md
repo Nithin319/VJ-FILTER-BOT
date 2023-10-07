@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://graph.org/file/9456b1e97fb6c1e403792.jpg](https://graph.org/file/9456b1e97fb6c1e403792.jpg)" alt="JISSHU-BOT Logo">
+  <img src="[[https://graph.org/file/9456b1e97fb6c1e403792.jpg]
 </p>
 <h1 align="center">
   JISSHU-BOT 
@@ -9,7 +9,7 @@
 </p>
 
 ## 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠
- 
+ hai 
 - [x] Stram Feature Added With Many Player Support
 - [x] Language & Season Support
 - [x] Custom Tutorial Button
