@@ -28,7 +28,7 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 PICS = (environ.get('PICS', 'https://graph.org/file/4c4e6c3e4c7348ce954b6.jpg https://graph.org/file/d0f97b1299f188ce7c42b.jpg https://graph.org/file/10666f11431b8869ee866.jpg https://graph.org/file/bc6c02c7f17cd7bd779fb.jpg https://graph.org/file/e5607f87fe2e741a8ece7.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://te.legra.ph/file/a27dc8fe434e6b846b0f8.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/How_To_Open_Linkl")
+MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/MAPOriginal")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
 
 # Admins, Channels & Users
